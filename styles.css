@@ -1,0 +1,21 @@
+body {
+    background-color: #0d0d0d;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+h1 {
+    font-size: 2.5em;
+    color: #0ff;
+}
+.services, .contact {
+    margin: 20px;
+    padding: 20px;
+    background-color: #222;
+    border-radius: 10px;
+}
+a {
+    color: #0ff;
+    text-decoration: none;
+    font-size: 1.2em;
+}
